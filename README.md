@@ -2,17 +2,16 @@
 ## 1) Prerequisites:
 ### UI Path / UI Path Studio Community Edition 
 - (Skep this steps if you already have UI Path Community Edition) Register for a UI Path community edition profile, [try it for free](https://www.uipath.com/product) button.
-- (Skep this steps if you already have UI Path Community Edition) Once Registering yourself as a home/personal company, you should gain access to the UI Path Automation Studio.
+- (Skep this steps if you already have UI Path Community Edition) Once registering yourself as a home/personal company, you should gain access to the UI Path Automation Studio.
 - Download the [UIPath Installer](https://download.uipath.com/UiPathStudioCommunity.msi). *Once logged in: you can also find this download link the right on the home screen of the Automation Cloud platform*.
 - Create a Project using UiPath Studio (**not UiPath StudioX**).
 - Once UiPath Studio is opened, go the Home > Help and copy the UiPath version used on the right side. **You need to supply the UiPath studio version when submitting your assessment**.
 
 ### SqlServer Express
 - The test will require to you to setup a database, and store data there in.
-- (If you have Sql Server Express installed skip the below steps).
-- Download and install the Free [Sql Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads).
-- Download and install [Sql Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver16).
-- Within Sql Server Management Studio, connect to your running Sql Server instance, and create a database using the database.sql file part of this repository.
+- (If you have Sql Server Express installed skip this step) Download and install the Free [Sql Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads).
+- (If you have Sql Server Express installed skip this step) Download and install [Sql Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver16).
+- Within Sql Server Management Studio, connect to your running Sql Server Express instance, and create a database using the database.sql file part of this repository.
 
 ## 2) What are we looking for:
 - Shows ability to perform Scraping, Downloading, Editing, and Database interaction using RPA tools.
