@@ -30,5 +30,8 @@ Using UiPath:
 - Open the downloaded file, read the data, and store all the "Afghanistan" rates in the table **VoipPrices**.
 - Open in the browse the Google Forms RPA test form using the link here.
 - Store your name in the "Applicants Name" question in the form.
-- Scrape the site and store description of "What Is Webafrica Voice?", storing it in the "What Is Webafrica Voice?" answer.
-- Scrape the site, open the drop down and store description of "Do I have to use a Webafrica Voice phone?", storing it in the "Do I have to use a Webafrica Voice phone?" answer.
+- Scrape the site and store description of "What Is Webafrica Voice?", storing it in the "What Is Webafrica Voice?" answer in the Google Form.
+- Scrape the site, open the drop down and store description of "Do I have to use a Webafrica Voice phone?", storing it in the "Do I have to use a Webafrica Voice phone?" answer in the Google Form.
+- Click Submit on the Google Form
+
+Complete
