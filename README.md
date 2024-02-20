@@ -1,11 +1,9 @@
 # Webafrica - RPA Assessment
 ## 1) Prerequisites:
-### UI Path / UI Path Studio Community Edition 
-- (Skep this steps if you already have UI Path Community Edition) Register for a UI Path community edition profile, [try it for free](https://www.uipath.com/product) button.
-- (Skep this steps if you already have UI Path Community Edition) Once registering yourself as a home/personal company, you should gain access to the UI Path Automation Studio.
-- Download the [UIPath Installer](https://download.uipath.com/UiPathStudioCommunity.msi). *Once logged in: you can also find this download link the right on the home screen of the Automation Cloud platform*.
-- Create a Project using UiPath Studio (**not UiPath StudioX**).
-- Once UiPath Studio is opened, go the Home > Help and copy the UiPath version used on the right side. **You need to supply the UiPath studio version when submitting your assessment**.
+### Power Automate Desktop Version 
+- (Skep this steps if you already have Power Automate) Download power automate desktop using the instructions [here](https://learn.microsoft.com/en-us/power-automate/desktop-flows/install#install-power-automate-using-the-msi-installer).
+- (Skep this steps if you already have UI Path Community Edition) Run the installer, and be sure to enable “Install the Power Automate for deskop to build desktop flows” checkbox.
+- Sign in with your work or personal microsoft account. *Once logged in: you may get an error regarding the organization. Search in windows for Power Automate again and then try and launch*.
 
 ### SqlServer Express
 - The test will require to you to setup a database, and store data there in.
