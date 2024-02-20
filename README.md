@@ -22,7 +22,7 @@
 
 ## 4) Start The Test
 
-Using UiPath:
+Using Power Automate:
 
 - Browse to https://www.webafrica.co.za/voip, and find the link next to the text "View the full list of international call rates". Download the Excel file behind that link. (The file will give you a list of all Voip call rates.).
 - Open the downloaded file, read the data, and store all the "Afghanistan" rates in the table **VoipPrices**.
