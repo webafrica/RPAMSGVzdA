@@ -15,10 +15,10 @@
 - Shows ability to perform Scraping, Downloading, Editing, and Database interaction using RPA tools.
 
 ## 3) Submitting Results
-- Once you've completed your project, Zip the entire folder where the .xaml and project.json file exists.
+- Once you've completed your project, copy the power automate workflow to a text file. See instructions [here](https://www.linkedin.com/pulse/how-copypaste-power-automate-desktop-flows-another-computer-sharif/).
 - Export the database, by going to Sql Server Management Studio and follow the steps [here](https://docs.telerik.com/devtools/aspnet-ajax/knowledge-base/common-import-and-export-sql-database-to-sql-script-via-sql-management-studio).
 - Submit the test by either: 1) Emailing the results. 2) Uploading it to a shared folder (Google Drive, DropBox etc) and sharing it with the Webafrica co-ordinator.
-- Include in your submission, the version of UIPath used.
+- Include in your submission, the version of Power Automate used (can typically be found at the bottom of the PA window)
 
 ## 4) Start The Test
 
