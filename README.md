@@ -24,8 +24,8 @@
 
 Using Power Automate:
 
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 
-### PLEASE NOTE: DO NOT use the screen recorder in power automate for any tasks. The tasks must be used by the drag and drop components
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) #### PLEASE NOTE: DO NOT use the screen recorder in power automate for any tasks. The tasks must be used by the drag and drop components
+
 
 - Browse to https://www.webafrica.co.za/voip, and find the link next to the text "View the full list of international call rates". Download the Excel file behind that link. (The file will give you a list of all Voip call rates.).
 - Open the downloaded file, read the data, and store all the "Afghanistan" rates in a table called **VoipPrices** (use the database.sql file attached to setup the initial database / table on your machine)
